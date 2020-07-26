@@ -2,8 +2,6 @@
 
 Vernality is an open-innovation driven Startup Studio with distributed ledger based government.
 
-Visit [vernality.org](https://vernality.org) to learn more. 
-
 Check our [Code of Conduct](/CODE_OF_CONDUCT.md) and [Contribution Guidelines](/CONTRIBUTING.md).
 
 ## Projects
