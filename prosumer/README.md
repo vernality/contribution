@@ -5,7 +5,7 @@ Limit incoming information. Consume relevant content. Produce value.
 ## Founder's request
 
 <details><summary markdown="span">I want to know top and relevant Twitter users to follow in my profession.</summary>
-My colleague regularly posts super relevant and useful information in our work chat. Mostly they are reposts from Twitter. 
+My colleague regularly posts super relevant and useful information in our work chat. Mostly it is repost from Twitter. 
 I see that he is up to date with the most relevant and useful information in our profession. He is also great as a professional. 
 </details>
 <br/>
