@@ -10,13 +10,13 @@ Check our [Code of Conduct](/CODE_OF_CONDUCT.md) and [Contribution Guidelines](/
 
 Initiate in-person communication on conferences. 
 
-See [concept](/meetapp) and [colony](https://colony.io/colony/vernality?domainFilter=2).   
+Get inspired by the [Idea](/meetapp) and join the [Colony](https://colony.io/colony/vernality?domainFilter=2).  
 
 ### Prosumer
 
 Consume content conscientiously and produce it efficiently. 
 
-See [concept](/prosumer) and [colony](https://colony.io/colony/vernality?domainFilter=3).
+Get inspired by the [Idea](/prosumer) and join the [Colony](https://colony.io/colony/vernality?domainFilter=3).
 
 ## Contacts
 
