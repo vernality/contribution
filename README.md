@@ -14,7 +14,7 @@ See [concept](/meetapp) and [colony](https://colony.io/colony/vernality?domainFi
 
 ### Prosumer
 
-Consume content conscientiously and produce content efficiently. 
+Consume content conscientiously and produce it efficiently. 
 
 See [concept](/prosumer) and [colony](https://colony.io/colony/vernality?domainFilter=3).
 
