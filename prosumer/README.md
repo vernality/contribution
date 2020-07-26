@@ -43,4 +43,11 @@ My dream is to get rid of most of the useless subscriptions and channels eventua
 The "Out" tab of the app allows me to conveniently post to social networks simple posts. 
 
 And the "Profile" tab asks me to connect my social networks so that the app is able to do it's job. 
- 
+
+## Why participate
+
+Check the [EARN](/EARN.md) policy.
+
+## Idea Author
+
+Rinat Enikeev is an iOS developer worked at Mail.Ru, international startups, currently at Yandex. See his [CV](http://rinat-enikeev.github.io/cv/). 
