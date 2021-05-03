@@ -46,7 +46,7 @@ And the "Profile" tab asks me to connect my social networks so that the app is a
 
 ## Why participate
 
-Check the [EARN](/prosumer/EARN.md) policy.
+Check the [EARN](/ideas/prosumerosumer/EARN.md) policy.
 
 ## Idea Author
 
